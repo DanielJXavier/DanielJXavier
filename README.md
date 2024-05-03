@@ -24,3 +24,7 @@ Besides technology, I find joy in capturing the beauty of landscapes through my 
   <img alt="Tech #9 - GitHub Actionsq" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
   <img alt="Tech #10 - Node" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
+
+##
+
+![Snake](https://github.com/DanielJXavier/DanielJXavier/blob/output/github-contribution-grid-snake.svg)
