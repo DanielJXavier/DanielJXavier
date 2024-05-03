@@ -27,4 +27,4 @@ Besides technology, I find joy in capturing the beauty of landscapes through my 
 
 ##
 
-![Snake](https://github.com/DanielJXavier/DanielJXavier/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/DanielJXavier/DanielJXavier/blob/output/github-snake.svg)
