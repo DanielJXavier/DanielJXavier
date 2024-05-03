@@ -8,6 +8,8 @@ In my past roles, I've acquired and applied pivotal management skills such as em
 
 Besides technology, I find joy in capturing the beauty of landscapes through my lens and staying active with sports. I am always open to exploring new opportunities and forging meaningful connections. Let's engage in a conversation!
 
+##
+
 ### Some technologies I have been working lately:
 
 <div style="display: inline_block"><br>
