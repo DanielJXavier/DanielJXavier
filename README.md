@@ -11,7 +11,7 @@ Besides technology, I find joy in capturing the beauty of landscapes through my 
 ### Some technologies I have been working lately:
 
 <div style="display: inline_block"><br>
-  <img alt="Tech #1 - JS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="pointer-events: none" alt="Tech #1 - JS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
   <img alt="Tech #2 - TS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Tech #3 - React" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Tech #4 - Next" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
