@@ -2,7 +2,7 @@
 
 With a decade-long web development journey and an MBA in strategic people management, I've honed my skills to become a dedicated technical leader.
 
-My mission is to craft elegant solutions to intricate problems, leveraging my expertise in JavaScript and its associated frameworks and libraries such as React.js and Node.js. My passion extends beyond development; I thrive on imparting knowledge and fostering growth, leading me to mentor a team of exceptional engineers at OLX, a global frontrunner in online classifieds. Our team is responsible for the search and recommendation systems and the design system of the platform.
+I aim to craft elegant solutions to intricate problems, leveraging my expertise in JavaScript and its associated frameworks and libraries such as React.js and Node.js, which I have mastered over the years. I also love teaching and helping others, so I led and mentored teams of talented engineers who work on the search and recommendation systems and the design system of the OLX platform, the global leader in online classifieds.
 
 In my past roles, I've acquired and applied pivotal management skills such as emotional intelligence, collaborative design, and agile methodologies. These skills have not only given me a competitive edge but also shaped me into a well-rounded professional. I am driven by an insatiable curiosity to learn and a readiness to take on new challenges. I firmly believe in the transformative power of technology and its potential to positively impact society.
 
