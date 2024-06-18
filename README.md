@@ -1,10 +1,11 @@
 ## Hey I'm Daniel
 
-With over a decade of experience in web development and expertise in TypeScript, JavaScript, React, and Node.js, I have consistently delivered elegant solutions to complex challenges. My proficiency extends beyond technical skills, as I have successfully led teams on intricate projects, mentoring them and fostering skills in emotional intelligence and conflict resolution.
+With more than 10 years of experience in web development and expertise in TypeScript, JavaScript, React, and Node.js, I have consistently delivered elegant solutions to complex challenges. My proficiency extends beyond technical skills, as I have successfully led teams on complex projects with relevant results for the company.
 
-As a Front-End focused Technical Leader, I have a proven track record of designing intuitive user interfaces and robust backend systems, ensuring high performance, scalability, and security. My leadership style is rooted in collaboration and continuous improvement, driving my teams to achieve excellence.
+As an experienced Front-End developer and leader, I have a proven track record of designing intuitive user interfaces and robust backend systems, ensuring high performance, scalability, and security. My leadership style is rooted in collaboration and continuous improvement, driving my teams to achieve excellence.
 
-Outside of technology, I am passionate about photographing landscapes, engaging in adventure sports, and exploring new places. I am always open to new opportunities and connections. Let's connect and explore how we can achieve great results together!
+Now, I am focused back on the hands-on approach, designing and developing robust and scalable solutions with the best practices contributing actively to the company's goals achieving great results together!
+
 ##
 
 ### Some technologies I have been working lately:
