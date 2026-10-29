@@ -1,6 +1,6 @@
 ## Hey I'm Daniel
 
-A Senior/Lead Front-End Engineer with 13+ years of experience helping US-based companies build intuitive user interfaces, ensuring code quality, high performance, scalability, accessibility, and security. Specialized in React, Next.js, TypeScript, and Tailwind CSS, now powered by top AI tools to go even faster.
+A Senior/Lead Front-End Engineer with 14+ years of experience helping US-based companies build intuitive user interfaces, ensuring code quality, high performance, scalability, accessibility, and security. Specialized in React, Next.js, TypeScript, and Tailwind CSS, now powered by top AI tools to go even faster.
 
 Currently working at Lovevery, delivering meaningful projects like the New Checkout with a net gain of 7.3 new checkouts per day and the ERC launch to reach more than 455k customers in just a few months.
 
